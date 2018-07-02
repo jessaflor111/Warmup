@@ -1,0 +1,79 @@
+
+ul {
+  list-style-type: none;
+}
+a {
+    color: white !important;
+}
+h6{
+    font-size: 2.5em !important;
+}
+.navbar{
+    padding: 0px !important;
+    font-family: 'Oswald', sans-serif !important;
+}
+.navBarColor {
+    background-color: #011b46 !important;
+}
+
+.navbar-brand {
+    float: left;
+    padding: 0px !important;
+}
+
+.jumbotron {
+    background-image: url("https://pmcvariety.files.wordpress.com/2017/09/rexfeatures_9049850br.jpg?w=1000&h=563&crop=1");
+    height: 400px;
+    width: 900px;
+    padding-right: 0px;
+    margin-right: auto;
+}
+
+.text-block {
+    position: absolute;
+    bottom: 60px;
+    left:30px;
+    background-color: rgba(0, 0, 0, 0.71);
+    outline-style: outset;
+    outline-color: rgba(0, 0, 0, 0.54);
+    color: white;
+    padding: 20px;
+    font-family: 'Barlow Condensed', sans-serif !important;
+}
+
+.text-box-black {
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+    padding: 35px;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.text-box-yellow {
+    background-color: #febe01;
+    color: white;
+    padding: 30px;
+    font-family: 'Oswald', sans-serif !important;
+}
+
+.minitext {
+    font-size: .7em;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.miniytext {
+    font-size: .8em;
+    font-family: 'Encode Sans Condensed', sans-serif;
+    color: yellow;
+}
+
+.miniytext:hover {
+    color: blue;
+}
+
+.lead {
+    font-size: 1.1em !important;
+}
+
+.fa-shopping-basket {
+    color: orange !important;
+}
